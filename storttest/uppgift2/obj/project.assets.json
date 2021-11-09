@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\storttest\\uppgift2\\storttest.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\programmerings-olympiad\\storttest\\uppgift2\\storttest.csproj",
       "projectName": "storttest",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\storttest\\uppgift2\\storttest.csproj",
+      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\programmerings-olympiad\\storttest\\uppgift2\\storttest.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\storttest\\uppgift2\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\programmerings-olympiad\\storttest\\uppgift2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

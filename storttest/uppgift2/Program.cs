@@ -16,13 +16,14 @@ class myProgram
 {
     static void Main(string[] args)
     {
-        string txt = Console.ReadLine();
+        
         Console.WriteLine("välj ett tal mellan 1 till 5");
         Console.ReadLine();
-        Console.WriteLine("längden på texten va" + txt.Length);
        Console.WriteLine("skriv något");
        string namn = Console.ReadLine();
+       
         Console.WriteLine(StringHelper.ReverseString(namn));
+        Console.WriteLine("längden på texten va " + namn.Length "bokstäver");
     }
      }
       }
