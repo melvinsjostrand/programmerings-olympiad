@@ -23,7 +23,7 @@ class myProgram
        string namn = Console.ReadLine();
        
         Console.WriteLine(StringHelper.ReverseString(namn));
-        Console.WriteLine("längden på texten va " + namn.Length "bokstäver");
+        Console.WriteLine("längden på texten va " + namn.Length);
     }
      }
       }
